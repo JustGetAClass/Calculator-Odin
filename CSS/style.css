@@ -6,6 +6,7 @@ body {
   align-items: center;
   width: 100vw;
   height: 100vh;
+  background-color: #CBF1F5;
 }
 
 .calculator {
@@ -27,6 +28,7 @@ h1 {
   flex-direction: column;
   justify-content: flex-end;
   align-items: flex-end;
+  background-color: #ffffff;
 }
 #screen .previous {
   font-size: 20px;
